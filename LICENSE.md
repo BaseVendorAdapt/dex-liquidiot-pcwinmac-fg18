@@ -1,4 +1,4 @@
-# 
+# 智能 dex liquidity bot 预设 Mac OS版 | 终极 dex liquidity bot 预设 PC Windows版。集成 三明治攻击检测 和 路由优化，跨平台性能最大化。
 
 
 
